@@ -1,24 +1,12 @@
-# techno-cursos
+# Techno Cursos com VueJS
 
-## Project setup
-```
-npm install
-```
+Projeto desenvolvido no curso de VueJS completo da Origamid, onde é aplicado os conceitos de Vue Router, SPA e API.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Mais Info
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- VueJS com SPA (Single Page Application);
+- Simulado a API com o arquivo api.json, utilizando JSON Server em  https://github.com/typicode/json-server
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Funcionando
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](technoCursos.gif)
